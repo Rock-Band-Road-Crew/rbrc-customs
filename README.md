@@ -1,6 +1,6 @@
 # Rock Band: Road Crew Customs
 
-Welcome to the RB Customs repo. This is a collaborated effort by the Rock Band: Road Crew discord.
+Welcome to the Rock Band 2 Customs repo. This is a collaborated effort by the Rock Band: Road Crew discord.
 
 # AUTHORS
 * Antho-ny_4<br>
