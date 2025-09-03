@@ -1,6 +1,6 @@
 Legacy RB & C3 charts from other authors: 
 
-These are RB2cons that were originally RB3cons from the C3/Rhythmverse database from other authors and have been converted to RB2, DIY multitracks added and some chart tweaks here and there. I will also never upload these to RV since these charts are not mine.
+These are RB2cons that were originally RB3cons from the C3/Rhythmverse database from other authors and have been converted to RB2, DIY multitracks added and some chart tweaks here and there. I will also never upload these to RV since these charts don't belong to me. If you're the og charter for any of these songs and want the chart taken down from here please let me know.
 
 Original charts made by U628:
 
